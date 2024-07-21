@@ -7,5 +7,5 @@ Although several theories have been developed to explain the vigilance decrement
 
 We conducted a preliminary experiment incorporating measures of mind wandering (MW), i.e., thought probes (TP), in the ANTI-Vea task. We conducted a study in which different amounts of TP were tested between-participants across groups to determine the optimal TP rate.
 
-[link to the OSF project](https://osf.io/6rg5b/)   
+[link to the OSF project](https://osf.io/6athx/)   
  
